@@ -1,11 +1,12 @@
 # HOMEWORK 5 ☀
 The page has useful information about tenses in English
+
 Here is the link to my project:
 [My project] (https://annirubi.github.io/Homework-5/)
 
 ___
 What was done:
-- [X]  Appled BEM methodology in naming
+- [X]  Applied BEM methodology in naming
 - [X] Used Flexbox
 - [X] Created a page with useful information in HTML and CSS 
 - [X] Added 5 sections: header, description section, gallery section, check yourself section, footer. 
